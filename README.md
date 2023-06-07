@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @nicolacaravaggio
 - 👀 I’m interested in data analysis mostly focused on forestry, environmental and labor economics fields
-- 🌱 I’m currently learning SQL, R-Shiny, MongoDB, Propensity Score Matching
+- 🌱 I’m currently learning Machine Learning, SQL, R-Shiny, MongoDB, Propensity Score Matching
 - 💞️ I’m looking to collaborate on any kind of analysis that has to deal with large amounts of data
 - 📫 How to reach me nicola.caravaggio.cilu@gmail.com
 
